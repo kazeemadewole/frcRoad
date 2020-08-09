@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/frcRoad/static/css/main.4120bf42.chunk.css",
+    "main.js": "/frcRoad/static/js/main.6700fdf6.chunk.js",
+    "main.js.map": "/frcRoad/static/js/main.6700fdf6.chunk.js.map",
+    "runtime-main.js": "/frcRoad/static/js/runtime-main.0f7d01f1.js",
+    "runtime-main.js.map": "/frcRoad/static/js/runtime-main.0f7d01f1.js.map",
+    "static/css/2.803429d5.chunk.css": "/frcRoad/static/css/2.803429d5.chunk.css",
+    "static/js/2.f5418556.chunk.js": "/frcRoad/static/js/2.f5418556.chunk.js",
+    "static/js/2.f5418556.chunk.js.map": "/frcRoad/static/js/2.f5418556.chunk.js.map",
+    "index.html": "/frcRoad/index.html",
+    "precache-manifest.fb8fca4d858df20ca8ea7beac02b5f44.js": "/frcRoad/precache-manifest.fb8fca4d858df20ca8ea7beac02b5f44.js",
+    "service-worker.js": "/frcRoad/service-worker.js",
+    "static/css/2.803429d5.chunk.css.map": "/frcRoad/static/css/2.803429d5.chunk.css.map",
+    "static/css/main.4120bf42.chunk.css.map": "/frcRoad/static/css/main.4120bf42.chunk.css.map",
+    "static/js/2.f5418556.chunk.js.LICENSE.txt": "/frcRoad/static/js/2.f5418556.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/frcRoad/static/media/bus.68dbd93a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f7d01f1.js",
+    "static/css/2.803429d5.chunk.css",
+    "static/js/2.f5418556.chunk.js",
+    "static/css/main.4120bf42.chunk.css",
+    "static/js/main.6700fdf6.chunk.js"
+  ]
+}
