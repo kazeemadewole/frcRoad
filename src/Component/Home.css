@@ -1,0 +1,25 @@
+.Home__container {
+    height: 100vh;
+    width: 100vw;
+    background : url('../img/bus.jpg');
+    object-fit: contain;
+}
+.pasLink {
+    text-decoration: none;
+    color : inherit
+}
+
+
+.Home__view {
+    background-color: rgba(46, 64, 40,0.8);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-top: 15vh;  
+   padding: 30px;
+   color: white;
+}
+.Home__view > p {
+    font-weight : bolder;
+    font-size: 17px;
+}

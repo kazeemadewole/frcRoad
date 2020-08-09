@@ -1,0 +1,35 @@
+.Header__nav {
+    display: flex;
+    justify-content : space-between;
+    align-items: center;
+    width: 100%;
+    position:sticky;
+    top: 0;
+    z-index : 120;
+    height: 50px;
+    background:#090a47;
+
+}
+
+.Header__list {
+    display: flex;
+    margin-right : 5vw;
+    align-items: center;
+    padding: 5px;
+}
+
+.Header__list > li {
+    color: white !important;
+    list-style-type: none !important;
+
+}
+.Header__list > li a {
+    color: white !important;
+
+}
+
+.Header__image {
+    height: 40px;
+    object-fit:contain;
+    margin-left: 4vw;
+}
